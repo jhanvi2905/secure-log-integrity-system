@@ -41,7 +41,7 @@ Python based secure log integrity and tamper detection system.
 ![Before_tampering](Screenshots/4.Before_tampering.png)
 
 ### After Tampering
-![After tampering](Screenshots/15.After_tampering.png)
+![After tampering](Screenshots/5.After_tampering.png)
 
 ### Tampering detection
 ![Tampering detection](Screenshots/6.Tampering_detection.png)
