@@ -26,3 +26,8 @@ Python based secure log integrity and tamper detection system.
 - Real-time monitoring
 - AES encryption
 - Exportable logs
+
+## Screenshots
+### Adding log entries
+![Adding logs](Screenshots/1.Adding_log_entries.png)
+  
