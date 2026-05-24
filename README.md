@@ -32,13 +32,13 @@ Python based secure log integrity and tamper detection system.
 ![Adding logs](Screenshots/1.Adding_log_entries.png)
 
 ### Viewing logs
-![Viewing_logs](Screenshots/2.Viewing_logs.png)
+![Viewing logs](Screenshots/2.Viewing_logs.png)
 
 ### Integrity Check No Tampering
-![Integrity_check_no_tampering](Screenshots/3.Integrity_check_no_tampering.png)
+![Integrity check no tampering](Screenshots/3.Integrity_check_no_tampering.png)
 
 ### Before Tampering
-![Before_tampering](Screenshots/4.Before_tampering.png)
+![Before tampering](Screenshots/4.Before_tampering.png)
 
 ### After Tampering
 ![After tampering](Screenshots/5.After_tampering.png)
