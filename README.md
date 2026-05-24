@@ -1,4 +1,4 @@
-# secure-log-integrity-system
+# tamper-evident-logging-system
 
 ## Overview
 Python based secure log integrity and tamper detection system.
